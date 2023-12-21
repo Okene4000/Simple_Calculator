@@ -14,7 +14,7 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(255, 255, 0);
+  background-color: rgb(255, 165, 0);
   transition: 0.8s all;
 }
 
@@ -46,7 +46,7 @@ h1 {
 
 input {
   padding: 25px;
-  color: rgb(112, 66, 65);
+  color: rgb(8, 8, 8);
   font-size: 1em;
   cursor: pointer;
   width: 70px;
@@ -70,7 +70,7 @@ input[type="button"] {
 }
 
 input[type="text"] {
-  background-color: rgb(8, 8, 8);
+  background-color: rgb(255, 255, 255);
   width: 222.5px;
 }
 
